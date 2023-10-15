@@ -5,8 +5,8 @@
 ## PetProjects
 
 * ### Сервис объявлений 
-    * [Frontend на React](https://github.com/alSergey/adservice-service-frontend)
-    * [Backend на Java](https://github.com/stampede147/adservice-service-backend)
+    * [Frontend на React](https://github.com/alSergey/advertisement-service-frontend)
+    * [Backend на Java](https://github.com/stampede147/advertisement-service-backend)
 
 ## Образование
 
