@@ -17,6 +17,7 @@
 
 * Java 11
 * Spring Framework (Boot, Data jpa, Test и т.д)
+* Swagger
 * MySQL
 * Git
 * Docker
