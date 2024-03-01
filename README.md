@@ -15,7 +15,7 @@
 
 ## Навыки и умения
 
-* Java 11
+* Java 17
 * Spring Framework (Boot, Data jpa, Test и т.д)
 * Swagger
 * MySQL
