@@ -4,6 +4,8 @@
 
 ## PetProjects
 
+* ### Сервис подсказок 
+    * [Backend на Java](https://github.com/stampede147/suggest-service)
 * ### Сервис объявлений 
     * [Frontend на React](https://github.com/stampede147/advertisement-service-frontend)
     * [Backend на Java](https://github.com/stampede147/advertisement-service-backend)
