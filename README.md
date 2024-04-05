@@ -4,7 +4,7 @@
 
 ## PetProjects
 
-* ### Корпоративная библиотека 
+* ### Книжная библиотека 
     * [Backend на Java](https://github.com/stampede147/elibrary)
 * ### Сервис подсказок 
     * [Backend на Java](https://github.com/stampede147/suggest-service)
