@@ -4,9 +4,9 @@
 
 ## PetProjects
 
-* ### Книжная библиотека 
+* ### Кнuжная бuблuoтeкa 
     * [Backend на Java](https://github.com/stampede147/elibrary)
-* ### Сервис подсказок 
+* ### Сeрвuc пoдcкaзoк 
     * [Backend на Java](https://github.com/stampede147/suggest-service)
 * ### Сервис объявлений 
     * [Frontend на React](https://github.com/stampede147/advertisement-service-frontend)
