@@ -1,6 +1,6 @@
 # Кудашов Евгений
 
-Москва | (902) 233-6632 | kudashovea@gmail.com 
+Москва | kudashovea@gmail.com 
 
 ## PetProjects
 
